@@ -11,7 +11,7 @@ sections:
 
       knvc;bdfm
     actions:
-      - label: Try Free
+      - label: Try Freecvcvcvcv
         url: /pricing
         style: primary
       - label: Learn Morecvvccv
